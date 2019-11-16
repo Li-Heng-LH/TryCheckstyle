@@ -1,4 +1,4 @@
 # TryCheckstyle
 TryCheckstyle
 
-`mvn checkstyle:checkstyle`
+Run `mvn checkstyle:checkstyle`.
