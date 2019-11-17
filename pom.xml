@@ -17,7 +17,6 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
 
-
     <build>
         <plugins>
             <plugin>
