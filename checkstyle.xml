@@ -5,6 +5,6 @@
 
 <module name="Checker">
     <module name="TreeWalker">
-        <module name="com.me.LHCheckstyle.checks.MethodLimitCheck"/>
+        <module name="com.me.LHCheckstyle.checks.LogCheck"/>
     </module>
 </module>

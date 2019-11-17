@@ -10,6 +10,7 @@ public class BadPractices {
     static private void BadMethod() {
         if (true)
             System.out.println("");
+
         else
             System.out.println("");
     }
